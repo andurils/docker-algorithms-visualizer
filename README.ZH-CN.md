@@ -2,6 +2,8 @@
 
 > Visualizing algorithms greatly facilitates the learning process.
 
+[English](./README.md) | 简体中文
+
 算法可视化是理解复杂数据结构的最佳方法，它提供了各种数据结构和算法的交互式动画。
 
 这个 Docker 镜像是基于 [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/) 的源代码`v1.5`构建的。
@@ -32,3 +34,5 @@ docker run -d -p 8100:80 algorithms-visualizing
 ## License
 
 请注意，此镜像是基于 [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/) 的源代码构建而成。在使用时，请遵守源代码的相关许可和使用规定。
+
+Copyright (c) 2023-present Anduril

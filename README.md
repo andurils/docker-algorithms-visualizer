@@ -2,6 +2,8 @@
 
 > Visualizing algorithms greatly facilitates the learning process.
 
+English | [简体中文](./README.zh-CN.md)
+
 Algorithm visualization is the best method for understanding complex data structures, as it provides interactive animations for various data structures and algorithms.
 
 This Docker image is built based on the source code `v1.5` of [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/).
@@ -32,3 +34,5 @@ docker run -d -p 8100:80 algorithms-visualizing
 ## License
 
 Please note that neither the image nor the source code was created by me. They are built based on the source code from [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/). When using them, please adhere to the relevant licenses and usage regulations of the source code.
+
+Copyright (c) 2023-present Anduril
